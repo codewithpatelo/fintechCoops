@@ -1,11 +1,11 @@
 # fintechCoops
 A list of fintech coops
 
-*Coop Exchange*
+* Coop Exchange*
 https://coop.exchange/
 Alliant credit union, the 8th largest credit union in the US by asset size.
 
-*Eco Fintech*
+* Eco Fintech*
 http://ecofintech.coop/
 
 * Community Bank Network *
@@ -19,3 +19,27 @@ https://bankofthecommons.coop/
 
 * SiPago By Credicoop *
 https://www.sipago.coop/
+
+* Open credit network *
+https://opencredit.network/
+
+* Ark *
+https://ark.io/
+
+* Coop Finance *
+https://coopfinance.coop/
+
+* Cobudget *
+http://cobudget.co/#/
+
+* Community Shares *
+http://communityshares.org.uk
+
+* Moneda Par *
+https://www.monedapar.com.ar/
+
+* Moeda * 
+https://moedaseeds.com/
+
+* Reciproka
+http://www.reciproka.cc/
